@@ -1,0 +1,2 @@
+# kitchapp
+Food management assistant 
